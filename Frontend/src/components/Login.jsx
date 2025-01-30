@@ -13,8 +13,8 @@ import { setAuthUser } from "./redux/authSlice";
 const Signup = () => {
     const [input, setinput] = useState({
         
-        email:"",
-        password:""
+        email:"gupta@gmail.com",
+        password:"12345"
     })
 
     // const user = useSelector(store => store.auth);
